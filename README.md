@@ -3,7 +3,7 @@ The supplementary Swift Playground to Swift 101 - `nil`
 
 ##Playground source
 
-```
+```swift
 /*:
  # Swift 101 - nil
  http://aj9.co.uk/swift-101-nil
