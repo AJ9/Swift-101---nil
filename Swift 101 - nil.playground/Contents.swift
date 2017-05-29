@@ -1,6 +1,6 @@
 /*:
  # Swift 101 - nil
- http://aj9.co.uk/swift-101-nil
+ https://medium.com/pretty-swifty/swift-101-nil-423813b56dfb
  
  A super quick blog to go over a key keyword in Swift - `nil`.
  */
